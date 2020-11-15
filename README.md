@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img src="public/assets/logo.png" width="100" title="FIVE">
+   <img src="assets/logo.png" width="100" title="FIVE">
 </p>
 
 
@@ -17,9 +17,9 @@ Enlarge your vocabulary with a word list which differentiates every week. For no
 🔥 
 <a href="https://twitter.com/hashtag/fivedaysfivewords?src=hashtag_click" target="_blank" rel="noopener noreferrer">#fivedaysfivewords</a> ⚔️ 
 
-![#FDFWC](src/assets/img/dark_side.png)
+![#FDFWC](assets/dark_side.png)
 
-![#FDFWC](src/assets/img/light_side.png)
+![#FDFWC](assets/light_side.png)
 
 ## Build
 
@@ -30,7 +30,7 @@ Enlarge your vocabulary with a word list which differentiates every week. For no
    
 ## Built With
 
-<img src="public/assets/vue-logo.png" width="60" title="vue">
+<img src="assets/vue-logo.png" width="60" title="vue">
 
 ## Contributors
 
@@ -42,7 +42,3 @@ Enlarge your vocabulary with a word list which differentiates every week. For no
 
 
 
-
-## License
-
-[MIT](http://opensource.org/licenses/MIT)
