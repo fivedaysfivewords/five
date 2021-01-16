@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/fivedaysfivewords/five/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+   <img src="assets/logo.png" width="100" title="FIVE">
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+**<a href="https://chrome.google.com/webstore/detail/five/pchijaajjmnfafkonegfbfbkejmdlokn" target="_blank" rel="noopener noreferrer">FIVE</a>** helps you for the memorize both **English** and **Turkish** words.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It's all about **words!** 🤓And we assure you it **works!** 🤘
 
-```markdown
-Syntax highlighted code block
+Enlarge your vocabulary with a word list which differentiates every week. For now, we’re setting the words which appear on the header and we’re changing them daily. Soon you’d be able to create a list by your own choice.
 
-# Header 1
-## Header 2
-### Header 3
+**Memorizing foreign words has never been easier!** After you activate the add-on, you’ll have your words in front of your eyes in every opened new tab. 
 
-- Bulleted
-- List
+**You’ll learn the words even if you don’t want to.** 🤓
 
-1. Numbered
-2. List
+🔥 
+<a href="https://twitter.com/hashtag/fivedaysfivewords?src=hashtag_click" target="_blank" rel="noopener noreferrer">#fivedaysfivewords</a> ⚔️ 
 
-**Bold** and _Italic_ and `Code` text
+![#FDFWC](assets/dark_side.png)
 
-[Link](url) and ![Image](src)
-```
+![#FDFWC](assets/light_side.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Build
 
-### Jekyll Themes
+**`npm run build`**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fivedaysfivewords/five/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**`npm run serve`**
 
-### Support or Contact
+   
+## Built With
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<img src="assets/vue-logo.png" width="60" title="vue">
+
+## Contributors
+
+ 🐝 **Tuncer Başdağ**  - [GitHub](https://github.com/tuncerbasdag),  [Twitter](https://twitter.com/tuncerbasdag)
+
+ 🦋 **Fırat Gürsu**  - [GitHub](https://github.com/firatgursu),  [Twitter](https://twitter.com/fgursu)
+
+ 🦉 **Onur Uzun**  - [GitHub](https://github.com/onuruzun),  [Twitter](https://twitter.com/onuriart)
+
+
+
