@@ -30,7 +30,7 @@ Enlarge your vocabulary with a word list which differentiates every week. For no
    
 ## Built With
 
-<img src="assets/vue-logo.png" width="60" title="vue">
+<img src="https://github.com/fivedaysfivewords/five/blob/main/assets/vue-logo.png?raw=true" width="60" title="vue">
 
 ## Contributors
 
