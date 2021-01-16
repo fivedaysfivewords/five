@@ -17,9 +17,9 @@ Enlarge your vocabulary with a word list which differentiates every week. For no
 🔥 
 <a href="https://twitter.com/hashtag/fivedaysfivewords?src=hashtag_click" target="_blank" rel="noopener noreferrer">#fivedaysfivewords</a> ⚔️ 
 
-![#FDFWC](assets/dark_side.png)
+![#FDFWC](https://github.com/fivedaysfivewords/five/blob/main/assets/dark_side.png?raw=true)
 
-![#FDFWC](assets/light_side.png)
+![#FDFWC](https://github.com/fivedaysfivewords/five/blob/main/assets/light_side.png?raw=true)
 
 ## Build
 
