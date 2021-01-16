@@ -34,11 +34,11 @@ Enlarge your vocabulary with a word list which differentiates every week. For no
 
 ## Contributors
 
+ 🐣 **Okan Toper**  - [GitHub](https://github.com/okanovic),  [Twitter](https://twitter.com/okan_toper)
+ 
  🐝 **Tuncer Başdağ**  - [GitHub](https://github.com/tuncerbasdag),  [Twitter](https://twitter.com/tuncerbasdag)
 
  🦋 **Fırat Gürsu**  - [GitHub](https://github.com/firatgursu),  [Twitter](https://twitter.com/fgursu)
 
  🦉 **Onur Uzun**  - [GitHub](https://github.com/onuruzun),  [Twitter](https://twitter.com/onuriart)
-
-
 
