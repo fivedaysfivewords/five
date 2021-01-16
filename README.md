@@ -21,12 +21,6 @@ Enlarge your vocabulary with a word list which differentiates every week. For no
 
 ![#FDFWC](https://github.com/fivedaysfivewords/five/blob/main/assets/light_side.png?raw=true)
 
-## Build
-
-**`npm run build`**
-
-**`npm run serve`**
-
    
 ## Built With
 
