@@ -37,4 +37,7 @@ Enlarge your vocabulary with a word list which differentiates every week. For no
  🦉 **Onur Uzun**  - [GitHub](https://github.com/onuruzun),  [Twitter](https://twitter.com/onuriart)
 
 
+## POLICY
+
+[See the policy](/POLICY.md)
 
