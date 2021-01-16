@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img src="assets/logo.png" width="100" title="FIVE">
+   <img src="https://github.com/fivedaysfivewords/five/blob/main/assets/logo.png?raw=true" width="100" title="FIVE">
 </p>
 
 
