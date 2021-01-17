@@ -1,6 +1,6 @@
 
 **Privacy Policy for FIVE**  
-At FIVE, accessible from [https://github.com/fivedaysfivewords/five](https://outgoing.prod.mozaws.net/v1/42b3532f589a822fa709ce3811ec0765e4648ef1fc4add5a1114ce12e9d0d10c/https%3A//github.com/fivedaysfivewords), one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by FIVE and how we use it.  
+At FIVE, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by FIVE and how we use it.  
   
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.  
   
